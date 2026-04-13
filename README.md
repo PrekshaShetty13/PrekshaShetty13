@@ -21,7 +21,8 @@ Great sales. Poor profits. Something's wrong — here's what.
 Diagnosed profit erosion in a retail company across 9,994 orders.
 Found that 40%+ discounts generate negative profit — actionable finding that directly impacts pricing strategy.
 Built an interactive Power BI dashboard with region, category, and product-level drilldowns.
-Python SQL Power BI EDA Business Analyticsmailto:prekshashetty135@gmail.com
+Python SQL Power BI EDA Business Analytics
+mailto:prekshashetty135@gmail.com
 
 📱 Personal Finance Tracker
 
@@ -33,12 +34,10 @@ Flutter Dart MySQL Python ARIMA Time-Series Forecasting
 
 🛠️ Tech Stack
 Languages & Tools
-[Show Image](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-[Show Image](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-[Show Image](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-[Show Image](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-[Show Image](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-
+Python (Pandas, Matplotlib, Seaborn)
+Sql(MySQL)
+Excel
+Power BI
 
 🤝 Let's Connect
 https://www.linkedin.com/in/preksha-shetty-898945282/
